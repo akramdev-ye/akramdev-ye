@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![](https://visitor-badge.laobi.icu/badge?page_id=akramdev-ye.akramdev-ye)
 <!--
 **akramdev-ye/akramdev-ye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
